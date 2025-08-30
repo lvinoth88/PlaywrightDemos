@@ -44,7 +44,7 @@ test('Sauce Demo test2 error', async ({ page }) => {
   await login.ErrorLoginMsg("Sorry, this user has been locked out");
 });
 
-test('Sauce Demo test3 performance TEST', async ({ page }) => {
+test('Sauce Demo test3 performance', async ({ page }) => {
 
   let LoginType:any=await testdata.getExcelData("E2E",test.info().title,"LoginType");
   let Product:any=await testdata.getExcelData("E2E",test.info().title,"Product");
