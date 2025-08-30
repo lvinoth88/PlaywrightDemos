@@ -1,0 +1,44 @@
+{
+  "QA": {
+    "Normal": {
+      "Username": "standard_user",
+      "Password": "secret_sauce"
+    },
+    "locked": {
+      "Username": "locked_out_user",
+      "Password": "secret_sauce"
+    },
+    "performance": {
+      "Username": "performance_glitch_user",
+      "Password": "secret_sauce"
+    }
+  },
+  "Dev": {
+    "Normal": {
+      "Username": "standard_user",
+      "Password": "secret_sauce"
+    },
+    "locked": {
+      "Username": "locked_out_user",
+      "Password": "secret_sauce"
+    },
+    "performance": {
+      "Username": "performance_glitch_user",
+      "Password": "secret_sauce"
+    }
+  },
+  "PROD": {
+    "Normal": {
+      "Username": "standard_user",
+      "Password": "secret_sauce"
+    },
+    "locked": {
+      "Username": "locked_out_user",
+      "Password": "secret_sauce"
+    },
+    "performance": {
+      "Username": "performance_glitch_user",
+      "Password": "secret_sauce"
+    }
+  }
+}
